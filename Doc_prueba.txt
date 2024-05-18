@@ -3,5 +3,3 @@ documento de prueba
 
 modificación del documento
 modificacion para comprobar con diff
-
-prueba2 sincro
